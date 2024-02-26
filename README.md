@@ -7,7 +7,7 @@
 
 <h3 align="center">Maze Runner</h3>
 <p align="center">
-   An implementation of lambda architecture with spark with real comsumer complaints dataset
+   An implementation of lambda architecture with spark with real consumer complaints dataset
 
  <br>
   <a href="https://www.consumerfinance.gov/data-research/consumer-complaints/"><strong>Consumer Complaint Database >> </strong></a>
